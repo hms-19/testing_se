@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+
+body {
+  font-family: 'DM Sans', sans-serif;
+}
+
+option {
+  color: black;
+}
+
+
+.css-14rxmsw{
+  z-index: -1000 !important;
+}
+
+.dark-mode table{
+  background-color: #0E163B !important;
+  border: none !important;
+}
+
+.dark-mode table thead tr{
+  background-color: #0E163B !important;
+  color: #fff !important; 
+}
+
+.dark-mode .ant-modal-content, .dark-mode .ant-modal-header{
+  background-color: #0E163B !important;
+  color: #fff !important; 
+}
+
+.ant-btn {
+  background-color: #7551FF !important;
+  padding: 20px;
+}
+
+.ant-btn:hover{
+  background-color: #7e61f3 !important;
+}
+
+.ant-modal-footer .ant-btn-default{
+  display: none !important;
+}
+
+.dark-mode table thead tr th{
+  background-color: #0E163B !important;
+  color: #fff !important; 
+}
+
+.dark-mode table tr {
+  background-color: #0E163B; 
+  color: #fff; 
+}
+
+.dark-mode th {
+  background-color: #0E163B;
+  border-top: .5px solid #999;
+  color: #fff; 
+}
+
+.ag-theme-alpine-dark .ag-row-selected {
+  background-color: #0E163B;
+}
+
+.ag-theme-alpine-dark  .ag-center-cols-container{
+  background-color: #0E163B;
+}
+
+.rs-input-group{
+  border-radius: 10px !important;
+  padding: 10px;
+}
+
+
+.rs-picker-daterange{
+  background-color: #F4F7FE !important;
+}
+
+.rs-picker-daterange {
+  background-color: transparent !important;
+}
+
+.rs-input-group-inside{
+  height: 46px;
+  background-color: #0E163B !important;
+}
+
+.rs-input-group.rs-input-group-inside{
+  background-color: #0E163B !important;
+}
+
+.rs-input-group.rs-input-group-inside input{
+  background-color: #0E163B !important;
+}
+
+.rsuite-dark .rs-input-group-inside{
+  height: 46px;
+  background-color: #F4F7FE !important;
+}
+
+.rsuite-dark .rs-input-group.rs-input-group-inside{
+  background-color: #F4F7FE !important;
+}
+
+.rsuite-dark .rs-input-group.rs-input-group-inside input{
+  background-color: #F4F7FE !important;
+}
+
+.rs-picker-daterange-content{
+  color: #333;
+}
